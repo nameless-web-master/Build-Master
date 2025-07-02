@@ -139,7 +139,7 @@ const HeroSection = () => {
         </Card>
       </header>
 
-      <div className="mx-auto mt-10 flex w-full max-w-5xl flex-col items-center justify-center gap-5 p-5 text-center text-white">
+      <div className="mx-auto mt-10 flex w-full max-w-5xl flex-col items-center justify-center gap-5 p-5 text-center text-black">
         <h1 className="max-w-4xl text-2xl font-bold md:text-5xl">
           CONSTRUA SEUS SONHOS COM UMA PARCERIA DE CONFIANÇA
         </h1>

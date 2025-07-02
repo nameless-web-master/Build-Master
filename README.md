@@ -1,4 +1,4 @@
-# BuildMaster | Potencialize seu sucesso conosco! :toolbox:
+# BuildMaster | Boost your success with us! :toolbox:
 <div align="center">
   <img src="https://github.com/gui-bus/BuildMaster/blob/main/github/desktop_01.png" alt="Desktop Homepage" width="700" />
 </div>
@@ -7,13 +7,13 @@
 
 <br>
 
-***A [BuildMaster](https://buildmaster.vercel.app/) é uma landing page desenvolvida com React, Typescript, Next.js, ShadCN/UI, Tailwind CSS e Vercel.*** Descubra como a BuildMaster pode impulsionar seus projetos e negócios. Seu parceiro confiável para inovação e excelência, gerando resultados extraordinários.
+***A [BuildMaster](https://buildmaster.vercel.app/) is a landing page developed with React, Typescript, Next.js, ShadCN/UI, Tailwind CSS and Vercel.*** Descubra como a BuildMaster pode impulsionar seus projetos e negócios. Seu parceiro confiável para inovação e excelência, gerando resultados extraordinários.
 
-## Como acessar a página :gear:
+## How to access the :gear: page
 
-- [x] Para conhecer mais sobre a BuildMaster basta ***[clicar aqui](https://buildmaster.vercel.app/)***
+- [x] To learn more about BuildMaster just ***[click here](https://buildmaster.vercel.app/)***
 
-## Tecnologias utilizadas :dart:
+## Technologies used :dart:
 
 <div>
 	<img alt="React" height="80" width="80" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/React.svg">
@@ -24,7 +24,7 @@
 	<img alt="Vercel" height="80" width="80" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Vercel.svg">
 </div>
 
-## Galeria :camera:
+## Gallery :room:
 #### Desktop
 <div align="center">	
   <img src="https://github.com/gui-bus/BuildMaster/blob/main/github/desktop_01.png" alt="desktop" width="800" />
@@ -34,7 +34,7 @@
   <img src="https://github.com/gui-bus/BuildMaster/blob/main/github/desktop_05.png" alt="desktop" width="800" />
 </div>
 
-#### Mobile - Tema claro
+#### Mobile - Light theme
 <div align="center" style="display: inline_block">
   <img src="https://github.com/gui-bus/BuildMaster/blob/main/github/mobile_01.png" alt="mobile" width="200" />
   <img src="https://github.com/gui-bus/BuildMaster/blob/main/github/mobile_02.png" alt="mobile" width="200" />
@@ -44,13 +44,13 @@
   <img src="https://github.com/gui-bus/BuildMaster/blob/main/github/mobile_06.png" alt="mobile" width="200" />
 </div>
 
-## Contribuição :bulb:
+## Contribution :bulb:
 
-Gostaria de contribuir para o projeto? ***Fico muito grato pelo interesse!***
+Would you like to contribute to the project? ***I really appreciate your interest!***
 
-- Sinta-se à vontade para entrar em contato comigo através das minhas redes sociais para enviar seu feedback, sugestões ou comentários sobre o projeto.
+- Feel free to contact me through my social networks to send your feedback, suggestions or comments about the project.
 
-## Redes sociais para contato! :speech_balloon:
+## Social networks for contact! :speech_balloon:
 
 <a href="https://www.instagram.com/guibus_dev/" target="_blank">
 	<img alt="Instagram" height="60" width="60"  src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Instagram.svg"> 
@@ -62,13 +62,11 @@ Gostaria de contribuir para o projeto? ***Fico muito grato pelo interesse!***
 	<img alt="Gmail" height="60" width="60" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Gmail.svg"> 
 </a>
 
+## Do you need a custom page for your business? :rocket:
 
-## Precisa de uma pagina personalizada para o seu negócio? :rocket:
+- [x] If you liked ***BuildMaster***'s project and are interested in having a page for your business, get in touch! I am available to develop custom websites adapted to your company's needs. <br> ***Let's turn your vision into reality!*** :star:
 
-- [x] Se você gostou do projeto da ***BuildMaster*** e está interessado em ter uma página para o seu negócio, entre em contato! Estou disponível para desenvolver sites personalizados e adaptados às necessidades da sua empresa. <br> ***Vamos transformar sua visão em realidade!*** :star: 
-
--  Entre em contato através das minhas redes sociais ou envie-me um e-mail para [guibus.dev@gmail.com](mailto:guibus.dev@gmail.com).
-
+- Contact me through my social networks or send me an email to [guibus.dev@gmail.com](mailto:guibus.dev@gmail.com).
 
 <div align="center">
   <img src="https://github.com/gui-bus/BuildMaster/blob/main/public/Logo.svg" alt="BuildMaster" width="400" />
