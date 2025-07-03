@@ -93,17 +93,17 @@ export default function Footer() {
 
         <div className="flex gap-1">
           <SocialLink
-            href="https://www.instagram.com/guibus_dev"
+            href="https://www.instagram.com"
             icon={<FaInstagram size={20} />}
             size="icon"
           />
           <SocialLink
-            href="https://github.com/gui-bus"
+            href="https://github.com"
             icon={<FaGithub size={20} />}
             size="icon"
           />
           <SocialLink
-            href="https://www.linkedin.com/in/gui-bus"
+            href="https://www.linkedin.com/in"
             icon={<FaLinkedinIn size={20} />}
             size="icon"
           />
